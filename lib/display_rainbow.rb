@@ -6,5 +6,6 @@ def display_rainbow(rainbow)
   I: #{rainbow[5]}, V: #{rainbow[6]}"
 end 
 
+display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
 
 
